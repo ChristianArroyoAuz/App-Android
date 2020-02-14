@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Asesor de Cervezas</string>
+    <string-array name = "ColorCervezas">
+        <item> Clara </item>
+        <item> Rubia </item>
+        <item> Roja </item>
+        <item> Negra </item>
+    </string-array>
+</resources>

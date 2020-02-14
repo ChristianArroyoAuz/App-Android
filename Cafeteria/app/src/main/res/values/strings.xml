@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CafeEPN</string>
+    <string name="logo">Cafe_Loco</string>
+    <string-array name="opciones">
+        <item>Bebidas</item>
+        <item>Comida</item>
+        <item>Locales</item>
+    </string-array>
+    <string name="titulo_categoria_bebida_activity">Categoria</string>
+</resources>
